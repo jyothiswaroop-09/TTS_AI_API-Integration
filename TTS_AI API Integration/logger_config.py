@@ -1,0 +1,11 @@
+# backend/logger_config.py
+import logging
+def get_logger(name=__name__):
+    logger = logging.getLogger(name)
+    if not logger.handlers:
+        handler = logging.FileHandler('app.log')
+        formatter = logging.Formatter('%(asctime)s %(levelname)s %(name)s: %(message)s')
+        handler.setFormatter(formatter)
+        logger.addHandler(handler)
+        logger.setLevel(logging.INFO)
+    return logger

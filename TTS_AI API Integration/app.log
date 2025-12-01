@@ -1,0 +1,7 @@
+2025-12-01 13:33:25,750 ERROR ai_client: DeepSeek API error
+Traceback (most recent call last):
+  File "D:\DATA SCIENCE\PYTHON\Gen AI\TTS_ AI API Integration\Backend_TTS\ai_client.py", line 18, in chat
+    r.raise_for_status()
+  File "D:\DATA SCIENCE\PYTHON\Gen AI\GenAI\lib\site-packages\requests\models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 402 Client Error: Payment Required for url: https://api.deepseek.com/v1/chat/completions
