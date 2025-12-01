@@ -116,10 +116,11 @@ pydub
 ### Mistral end Output Page
 ![Mistral end Output Page](output/end_output(7).png)
 
-### TTS - AI Output video
-![TTS - AI Output video](output/output_video.mp4)
+### TTS - AI Demo Output video
+![TTS - AI Demo Output video](output/output_video.mp4)
 
 ## 🙌 Author
-
+```
 Motupalli Jyothi Swaroop
 AI & ML Developer
+```
