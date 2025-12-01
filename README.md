@@ -94,6 +94,31 @@ pydub
 .Choose response mode
 .Receive AI answer instantly
 ```
+## Example Output
+### Login Page
+![Login Page](output/code(1).png)
+
+### Home Page
+![Home Page](output/Home(2).png)
+
+### Audio Page
+![Audio Page](output/Audio(3).png)
+
+### Mistral Prompt Page
+![Values Page](output/mistral_prompt(4).png)
+
+### Mistral Output Page
+![Mistral Output Page](output/mistral_output(5).png)
+
+### Mistral B/w Output Page
+![Mistral B/w Output Page](output/output(6).png)
+
+### Mistral end Output Page
+![Mistral end Output Page](output/end_output(7).png)
+
+### TTS - AI Output video
+![TTS - AI Output video](output/output_video.mp4)
+
 ## 🙌 Author
 
 Motupalli Jyothi Swaroop
