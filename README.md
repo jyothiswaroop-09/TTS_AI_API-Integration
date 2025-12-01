@@ -28,8 +28,8 @@ Option to choose response format
 │── tts_utils.py
 │── logger_config.py
 └── 📁tests
-        │──test_validation.py
-
+│          │──test_validation.py
+📁──output(Images        # outside folder
 📄 requirements.txt      # outside folder  
 📄 .env                  # outside folder
 ```
@@ -115,9 +115,6 @@ pydub
 
 ### Mistral end Output Page
 ![Mistral end Output Page](output/end_output(7).png)
-
-### TTS - AI Demo Output video
-![TTS - AI Demo Output video](output/output_video.mp4)
 
 ## 🙌 Author
 ```
